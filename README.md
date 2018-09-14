@@ -4,13 +4,11 @@ Authored by: Rebecca Wieberdink
 
 Becky, Bath, and Beyond is a shopping application made using Node.js and MySQL that gives the user an old-school, hacker-style UI experience while making hilarious purchases! The most difficult part of this assignment was designing this application to be easy to use for each user. 
 
-## In order to run this online shopping program, 
-download/clone the repository to your computer. 
-Here a short tutorial on how to do this:
-
-1. Open your Command Line Interface and navigate your way into the folder that you just cloned. 
-2. Once in the main folder of the clone, type **npm install** and hit Enter, which will download the necessary modules. 
-3. Now type **node bamazonCustomer.js** and hit Enter in the command line. You are now in Becky, Bath, and Beyond!
+## In order to run this online shopping program...  
+1. Click the green *Clone or Download* button. Copy the link provided or press the clipboard button. Open your Command Line Interface (CLI), and type **git clone** and paste the link. Hit enter.
+2. In the Command Line Interface, navigate your way into the folder that you just cloned. 
+3. Once in the main folder of the clone, type **npm install** and hit Enter, which will download the necessary modules. 
+4. Now type **node bamazonCustomer.js** and hit Enter in the command line. You are now in Becky, Bath, and Beyond!
 
 Here is a concise FAQ/Tutorial to help you use this program!
 
